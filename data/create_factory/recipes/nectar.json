@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "create_factory:crushed_sugar"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_factory:nectar",
+      "amount": 100
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluidTag": "create_factory:sweet_berries_jam",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:sweet_berries_jam_jar"
+    }
+  ]
+}

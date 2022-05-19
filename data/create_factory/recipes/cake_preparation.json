@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "item": "create_factory:crushed_sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:cake_preparation"
+    }
+  ]
+}

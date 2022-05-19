@@ -1,0 +1,50 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="create_factory"
+version="1.0"
+displayName="Create: Factory"
+credits="Created using MCreator"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="antop_fr"
+description='''
+A lot of new foods added to Create!
+'''
+
+[[dependencies.create_factory]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.create_factory]]
+    modId="flywheel"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_factory]]
+    modId="create"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.create_factory]]
+    modId="create_confectionery"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.create_factory]]
+    modId="ecologics"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

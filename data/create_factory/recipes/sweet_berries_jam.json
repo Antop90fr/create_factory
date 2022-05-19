@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "create_factory:crushed_sugar"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_factory:sweet_berries_jam",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

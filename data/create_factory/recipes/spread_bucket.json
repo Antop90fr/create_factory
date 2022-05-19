@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "create_factory:spread",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:spread_bucket"
+    }
+  ]
+}

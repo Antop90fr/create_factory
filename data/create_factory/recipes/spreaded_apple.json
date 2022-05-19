@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "fluid": "create_factory:spread",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:spreaded_apple"
+    }
+  ]
+}

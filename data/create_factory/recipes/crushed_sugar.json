@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:crushed_sugar"
+    },
+    {
+      "item": "minecraft:sugar",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 75
+}

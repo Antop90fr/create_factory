@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "fluid": "create_factory:cream",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_factory:sweet_whipped_cream",
+      "amount": 250
+    }
+  ]
+}

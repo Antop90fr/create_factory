@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_factory:butter_cake"
+    },
+    {
+      "fluid": "create_factory:apple_jam",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:apple_jam_butter_cake"
+    }
+  ]
+}

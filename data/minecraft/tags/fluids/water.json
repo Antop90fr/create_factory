@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "create_factory:sweet_berries_jam",
+    "create_factory:flowing_sweet_berries_jam",
+    "create_factory:spread",
+    "create_factory:flowing_spread",
+    "create_factory:cream",
+    "create_factory:flowing_cream",
+    "create_factory:nectar",
+    "create_factory:flowing_nectar",
+    "create_factory:apple_jam",
+    "create_factory:flowing_apple_jam",
+    "create_factory:sweet_whipped_cream",
+    "create_factory:flowing_sweet_whipped_cream"
+  ]
+}

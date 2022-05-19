@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_factory:cake_preparation"
+    },
+    {
+      "item": "create_factory:butter"
+    },
+    {
+      "item": "create_factory:butter"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:butter_cake"
+    }
+  ],
+  "heatRequirement": "heated"
+}

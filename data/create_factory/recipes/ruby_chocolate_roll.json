@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "fluid": "create_confectionery:ruby_chocolate",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:ruby_chocolate_roll"
+    }
+  ]
+}

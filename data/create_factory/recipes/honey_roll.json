@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "fluidTag": "forge:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_factory:honey_roll"
+    }
+  ]
+}
